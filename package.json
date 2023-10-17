@@ -1,0 +1,16 @@
+{
+  "name": "motion-detection-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "joratelli",
+  "license": "ISC",
+  "dependencies": {
+    "node-osc": "^8.0.11",
+    "socket.io": "^4.6.2"
+  }
+}
